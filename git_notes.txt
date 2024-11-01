@@ -1,0 +1,58 @@
+1. Github bir versiyon kontrolü programıdır.
+2. Linux'u bulan adam bulmuştur.
+3. ls komutu klasörleri listeler ve görmemizi sağlar.
+4. pwd komutu güncel olarak bulunduğunuz konumu gösterir.
+5. cd komutu klasörler arasında gezinmemizi sağlar.
+6. cd .. komutu bir önceki klasöre tekrar gelir.
+7. clear komutu terminali temizler.
+8. Tab tuşu komutları otomatik tamamlar.
+9. mkdir komutu klasör oluşturmamıza yarar.
+10. touch komutu dosya oluşturmamıza yarar.
+11. rm komutu ile dosyalar silinebilir.
+12. rm -rf komutu klasörleri siler.
+13. git komutu git'in yardım dökümantasyonunu sunar (Linux Man).
+14. git --version komutu git sürümünü gösterir.
+15. git config --global user.name "x" x ismini oluşturur.
+16. user.email yazmak e-posta atanmasını sağlar.
+17. Commit checkpointlere verilen addır.
+18. Ortak çalışma alanlarına branch denir.
+19. git add komutu çalışmayı sahneye alır.
+20. git commit komutu çalışmaya dahil eder.
+21. Repository versiyonların depolandığı sahnedir.
+22. git status komutu git'in güncel durumunu gösterir.
+23. git init komutu git'i klasörde başlatır.
+24. ls -la komutu gizli klasörleri görmemize yarar.
+25. git add . komutu bütün değişiklikleri kayıt etmeye yarar.
+26. git commit -m komutu yapılan değişikliğe not yazmamızı sağlar.
+27. git log yapılan geçmiş değişikliklerin listesini oluşturur.
+28. .gitignore git'in görmezden geleceği klasörleri seçmemizi sağlar.
+29. .gitignore dosyası olarak oluşturur.
+30. gitignore için templateler kullanılabilir.
+31. Codersclup başkalarının kod yazma istatistiklerini veren bir sitedir.
+32. master ana branch'in adıdır.
+33. HEAD branch'te nerede olduğumuzu gösterir.
+34. feat terimi branch türü belirtmek için kullanılır.
+35. git switch komutu branch'ler arasında gezinmemize yarar.
+36. git merge feat komutu feat'ı birleştirmeye yarar.
+37. Conflict, merge edilen dosyaların çakışma durumudur.
+38. Fast forwarding, çakışma olmadan merge etme işlemidir.
+39. git stash komutu commit edilemeyen çalışmaları geçici olarak depolamaya yarar.
+40. git stash pop komutu stash'lenmiş çalışmaları dışarı çıkartmaya yarar.
+41. git stash apply komutu stash kaldırılmadan dışarı çıkarmaya yarar.
+42. git checkout hash komutu bir hash'i belirtilen commit adresine dönmeye yarar.
+43. detached HEAD geri dönmek gibi eylemlerde master ile aynı konumda olmadığımızı belirtir.
+44. git reset komutu geçmişe giderken gerideki bütün commit'leri siler fakat içerikleri saklar.
+45. git reset --hard komutu içerikleri saklamadan geriye gider ve giderken yeni commit'leri siler.
+46. git revert komutu eski commit'leri logda tutarak kaldırmaya yarar.
+47. git diff komutu çalışmalardaki farkları çıktı olarak gösterir.
+48. İki commit arasındaki farkı bulmak için "git diff hash hash" komutu kullanılabilir.
+49. git rebase merge commit'lemeye gerek kalmadan log history'i düzenleyerek proje birleştirmeye yarar ve kimi zaman sakıncalıdır.
+50. Contributions, GitHub'daki çalışmaları gösteren bir paneldir.
+51. Explore GitHub, GitHub'da yeni şeyler keşfetmek içindir.
+52. git remote add origin link komutu link'in adını origin olarak kısa yol oluşturur.
+53. draft taslak anlamına gelir.
+54. git fetch kodu commit'leri senkronize etmeye yarar.
+55. git clone kodu bir repoyu kendi bilgisayarımıza indirmeye yarar.
+56. Fork, bir projeyi çatallayarak ayırmaya ve kendi projen haline getirmeye yarar.
+57. pull request, bir proje sahibine yenilik yapma teklifi etmektir.
+58. Collaborator, private repolarda kullanım hakkı olan yetkililerdir.
